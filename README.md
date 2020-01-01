@@ -4,7 +4,13 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A simple example showing parallax effect in flutter!
+for the real website whick i replicated checkout this -> https://gardenestudio.com.br/
+Please Star and Fork if i helped you!
+
+
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
